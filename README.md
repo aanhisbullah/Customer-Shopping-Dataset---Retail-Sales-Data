@@ -1,4 +1,4 @@
-# Customer-Shopping-Dataset---Retail-Sales-Data
+# Market Basket Analysis in Istanbul Retail Data
 
 About Dataset
 Context
@@ -17,3 +17,5 @@ price: Unit price. Numeric. Product price per unit in Turkish Liras (TL).
 payment_method: String variable of the payment method (cash, credit card or debit card) used for the transaction.
 invoice_date: Invoice date. The day when a transaction was generated.
 shopping_mall: String variable of the name of the shopping mall where the transaction was made.
+
+https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
